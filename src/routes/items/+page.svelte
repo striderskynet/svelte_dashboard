@@ -8,5 +8,5 @@
 </svelte:head>
 
 <section>
-	<h1>main</h1>
+	<h1>items</h1>
 </section>
